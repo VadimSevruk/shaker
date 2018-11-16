@@ -278,7 +278,7 @@ h4 {
     }
 
     &__coment {
-        background-image: url('/img/comment.svg');
+        background-image: url('/shaker/img/comment.svg');
         background-color: $w;
         padding: 41px 43px 50px 64.5px;
         margin-bottom: 12px;
@@ -291,7 +291,7 @@ h4 {
         position: relative;
 
         &::before {
-            content: url('/img/quotes.svg');
+            content: url('/shaker/img/quotes.svg');
             width: 25px;
             height: 20.5px;
             position: absolute;
