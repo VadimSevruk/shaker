@@ -4,7 +4,7 @@ $(document).ready(function(){
       nav: true,
       loop: true,
       smartSpeed: 2000,
-      navText: ["<img src='/img/left.svg'>","<img src='/img/right.svg'>"],
+      navText: ["<img src='/shaker/img/left.svg'>","<img src='/shaker/img/right.svg'>"],
 
       responsive: {
         320: {
